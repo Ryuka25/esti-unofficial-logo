@@ -17,7 +17,9 @@
 
 - [Source SVG File](./esti.svg)
 - [Full Lockup PNG](./build/esti_full-lockup-logo.png)
+- [Full Lockup SVG](./build/esti_full-lockup-logo.svg)
 - [Icon Only PNG](./build/esti_icon-logo.png)
+- [Icon Only SVG](./build/esti_icon-logo.svg)
 
 ---
 
